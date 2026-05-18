@@ -8,17 +8,24 @@ I love crafting interactive, performant web apps and bringing design to life wit
 ---
 
 ### 🛠️ Tech Stack I Work With
-- **Languages & Frameworks**: TypeScript, JavaScript, React, Redux
-- **Styling Tools**: Styled-Components, Sass, HTML5, CSS3
-- **Build Tools**: Webpack, NPM, Git
-- **Others**: GitHub, VSCode, Responsive Design
+- **Core**: TypeScript, JavaScript, React, Next.js, HTML5, CSS3
+- **Styling Tools**: SCSS, Styled Components, Emotion, Material UI, Ant Design
+- **Testing**: Playwright (E2E), Jest, React Testing Library
+- **State Management**: Redux Toolkit (RTK Query), React Context
+- **Cloud & CI**: AWS, GitHub Actions, GitLab CI, Jenkins
+- **Tooling**: Storybook, Webpack, Claude Code, NPM, Babel, Sentry, AG-Grid
+Enterprise
+**Practices**: Design Systems, Component Libraries, TDD, Agile/Scrum, WCAG
+Accessibility, BFF Architecture, Technical Scoping
+- **Exposure**: Python, Node.js, Vue.js
 
 ---
 
 ### 🧠 Currently Learning
-- 🧪 **WebGL** – exploring 3D rendering on the web  
+- 🤖 **AI** - Exploring the world of AI
 - 🎨 **Creative JS** – playing with animations & interactive UI  
 - 📐 Dipping my toes into shaders and 3D experiences
+- 🧪 **WebGL** – exploring 3D rendering on the web
 
 ---
 
